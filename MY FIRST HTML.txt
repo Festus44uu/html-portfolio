@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>internet programming</title>
+    </head>
+  
+    <body>
+        <h1>internet programming -2023</h1>
+        <p>This is an MSc module that teaches students about web
+        technologies such as HTML, Javascript and PHP.</P>
+    </body>
+</html>
